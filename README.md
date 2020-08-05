@@ -1,2 +1,2 @@
-# tutorials
+# Tutorials
 Tutorials for MIT projects
